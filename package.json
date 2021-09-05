@@ -1,0 +1,26 @@
+{
+  "name": "Exercise-440-SPA-BOI-helloWorldWithoutCreateReactAppUsingParcel",
+  "version": "1.0.0",
+  "description": "**Instructions**:\r * Follow [these instructions](https://www.educative.io/edpresso/how-to-create-a-react-app-without-using-create-react-app-cli)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-D01/Exercise-440-SPA-BOI-helloWorldWithoutCreateReactAppUsingParcel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-D01/Exercise-440-SPA-BOI-helloWorldWithoutCreateReactAppUsingParcel/issues"
+  },
+  "homepage": "https://github.com/FbW-D01/Exercise-440-SPA-BOI-helloWorldWithoutCreateReactAppUsingParcel#readme",
+  "dependencies": {
+    "parcel": "^2.0.0-rc.0",
+    "parcel-bundler": "^1.12.5",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
